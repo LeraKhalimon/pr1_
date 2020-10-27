@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\pr1_\pr1_\bin\Debug\netcoreapp3.1\pr1_.exe
+C:\Users\User\Source\Repos\pr1_\pr1_\bin\Debug\netcoreapp3.1\pr1_.deps.json
+C:\Users\User\Source\Repos\pr1_\pr1_\bin\Debug\netcoreapp3.1\pr1_.runtimeconfig.json
+C:\Users\User\Source\Repos\pr1_\pr1_\bin\Debug\netcoreapp3.1\pr1_.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\pr1_\pr1_\bin\Debug\netcoreapp3.1\pr1_.dll
+C:\Users\User\Source\Repos\pr1_\pr1_\bin\Debug\netcoreapp3.1\pr1_.pdb
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.vbprojAssemblyReference.cache
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.AssemblyInfo.vb
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.vbproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.dll
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.pdb
+C:\Users\User\Source\Repos\pr1_\pr1_\obj\Debug\netcoreapp3.1\pr1_.genruntimeconfig.cache
